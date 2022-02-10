@@ -1,22 +1,19 @@
 # images and videos
 
 ## Banner
-![Banner](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Banner.png)
+![bank_management_system_cpp_image](https://user-images.githubusercontent.com/94468330/153454688-de8f71fc-fed7-4ea3-a912-2e73cc094a2b.jpg)
 
 ## Behavioral High Level Design
-![HighLevelDesign](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Behavioral%20High%20Level%20Design.png?raw=true)
+![Behavioral High Level Design](https://user-images.githubusercontent.com/94468330/153463071-e5dfd1b5-be53-4519-ade7-b9d16662e28e.png)
 
 ## Behavioral Low Level Design
-![LowLevelDesign](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Behavioral%20Low%20Level%20Design.png?raw=true)
+![Behavioral Low Level Design](https://user-images.githubusercontent.com/94468330/153463645-d4b1e823-36d8-46e3-80d9-0ef73baafe4a.png)
 
 ## Flow Chart
-![Description](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Flow%20Chart.png?raw=true)
+![IMG_20220210_222810 2](https://user-images.githubusercontent.com/94468330/153458453-885c622c-c5b7-42db-bb66-8f84ee1588f6.jpg)
 
 ## Structural High Level Design
-![LowLevelDesign](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Structural%20High%20Level%20Design.png?raw=true)
+![Structural High Level Design](https://user-images.githubusercontent.com/94468330/153463241-eafe6580-fc6a-4cbd-8a90-c8c8480a586f.png)
 
-## Low High Level Design
-![LowLevelDesign](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/Structural%20Low%20Level%20Design.png?raw=true)
-
-## SWOT
-![SWOT Analysis](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/SWOT.PNG?raw=true)
+## Structural Low Level Design
+![Structural Low Level Design](https://user-images.githubusercontent.com/94468330/153463852-04881389-b3a2-4314-bd86-c14525632376.png)
