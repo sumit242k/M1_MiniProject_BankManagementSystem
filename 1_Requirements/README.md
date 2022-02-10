@@ -51,7 +51,24 @@ Bank Management System offers a range of benefits to providers medium and small.
     * Making a withdrawl
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/Aranshu/Project/blob/master/6_ImagesAndVideos/SWOT.PNG?raw=true)
+Strenths
+     Easy withdrawls
+     Removal of paper transaction
+     Save time & Man power
+
+Weaknesses
+     Hardware is required
+     Technically aware employee required
+
+Opportunities
+     User friendly
+     Can be used by multiple banks
+     More secure as compared to paper transactions
+
+Threats
+     Admin can misuse his power to manipulate the customer data
+     Less visually appealing GUI
+
 
 # 4W&#39;s and 1&#39;H
 
@@ -72,19 +89,19 @@ Bank Management System offers a range of benefits to providers medium and small.
 
 # Detail requirements
 ## High Level Requirements: 
-| ID | Description | Category | Status | 
-| ----- | ----- | ------- | ---------|
-| HLR1 | Bank Management System | Techincal | Developed  | 
+Description | Category | Status |
+----- | ------- | ---------|
+Bank Management System | Techincal | Developed  | 
 
 ##  Low level Requirements:
  
-| ID | Description | HLR ID | Status (Implemented/Future) |
-| ------ | --------- | ------ | ----- |
-| LLR1 | Login System Admin | HLR1 |  Developed  |
-| LLR1 | Login System Customer| HLR1 |  Developed  |
-| LLR2 | Account Management System | HLR1 |  Developed |
-| LLR2 | Withdrawl mechanism | HLR1 |  Developed  |
-| LLR2 | Calculator | HLR1 |  Developed  |
+Description | Status (Implemented/Future) |
+--------- |----- |
+Login System Admin | Developed  |
+Login System Customer|Developed  |
+Account Management System |Developed |
+Withdrawl mechanism |Developed  |
+ Calculator |Developed  |
 
 
 
