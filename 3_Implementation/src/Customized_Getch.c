@@ -1,11 +1,11 @@
 /**
  * @file Customized_Getch.c
- * @author your name (you@domain.com)
- * @brief c file for HeaderFile.h
+ * @author Sumit Dahiya (dahiyasumit8053@gmail.com)
+ * @brief 
  * @version 0.1
- * @date 2021-04-14
+ * @date 2022-02-10
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include <stdlib.h>

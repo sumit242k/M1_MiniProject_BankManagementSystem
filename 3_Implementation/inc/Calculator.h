@@ -1,11 +1,11 @@
 /**
  * @file Calculator.h
- * @author your name (you@domain.com)
- * @brief Header file of calculator
+ * @author Sumit Dahiya (dahiyasumit8053@gmail.com)
+ * @brief 
  * @version 0.1
- * @date 2021-04-07
+ * @date 2022-02-10
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 

@@ -1,11 +1,11 @@
 /**
- * @file Multiplication.c
- * @author your name (you@domain.com)
- * @brief c file for Calculator.h
+ * @file Calculator_Multiplication.c
+ * @author Sumit Dahiya (dahiyasumit8053@gmail.com)
+ * @brief 
  * @version 0.1
- * @date 2021-04-08
+ * @date 2022-02-10
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include "Calculator.h"
