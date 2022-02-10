@@ -3,9 +3,9 @@
 
 ![bank_management_system_cpp_image](https://user-images.githubusercontent.com/94468330/153454688-de8f71fc-fed7-4ea3-a912-2e73cc094a2b.jpg)
 
-|Build|cppcheck|Codiga code quality|CI-Coverage|
-|:--:|:--:|:--:|:--:|
-|[![C/C++ CI](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml)|[![cppcheck-action](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml)|[https://api.codiga.io/project/30977/score/svg] [https://api.codiga.io/project/30977/status/svg]|[![CI-Coverage](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/gcov.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/gcov.yml)
+|Build|cppcheck|Codiga code quality|
+|:--:|:--:|:--:|
+|[![C/C++ CI](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml)|[![cppcheck-action](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml)|[https://api.codiga.io/project/30977/score/svg] [https://api.codiga.io/project/30977/status/svg]|[![CI-Coverage](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/gcov.yml/badge.svg)]
 
 
 
