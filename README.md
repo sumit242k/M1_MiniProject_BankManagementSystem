@@ -5,7 +5,7 @@
 
 |Build|cppcheck|Codiga code quality|
 |:--:|:--:|:--:|
-|[![C/C++ CI](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml)|[![cppcheck-action](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml)|https://api.codiga.io/project/30977/score/svg|https://api.codiga.io/project/30977/status/svg|
+|[![C/C++ CI](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/c-build.yml)|[![cppcheck-action](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sumit242k/M1_MiniProject_BankManagementSystem/actions/workflows/cppcheck.yml)|https://api.codiga.io/project/30977/score/svg https://api.codiga.io/project/30977/status/svg|
 
 
 
