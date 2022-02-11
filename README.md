@@ -13,7 +13,7 @@
 ## Default Login Credentials
 Username             | Password
 ---------------------|------------------------------------------
-root                 | root
+admin                | admin
 
 ## Folder Structure
 |Folder               | Description
