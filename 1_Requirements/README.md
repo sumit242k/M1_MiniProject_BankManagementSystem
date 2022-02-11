@@ -32,7 +32,7 @@ Bank Management System offers a range of benefits to providers medium and small.
 ## Cost and Features with Time 
 | Time | Feature | Cost |
 | ----- | ----- | ----- |
-| 2000 BC | The beganing of banking System| free |
+| 2000 BC | The beginning of banking System| free |
 | 1397-1463 | The modernization of the bank | free |
 | 2001-2021 | The emergence of Bank Management System  | $5-$10|
 
