@@ -24,6 +24,6 @@
 |LLR9   | Delete account |   Data |  Delete the account  |
 |LLR10  | Withdrawl Money |    Data |  Update Balance  |
 |LLR11  | Login Admin |   Username & Password |  True/False  |
-|LLR10  | Login Customer |   Account number |  True/False  |
+|LLR12  | Login Customer |   Account number |  True/False  |
 
 
