@@ -25,12 +25,7 @@ root                 | root
 |`5_Report`           | Documents related to project report
 |`6_ImagesAndVideos`  | All Images
 |`7_Other`            | Contain File
-
-## Contributors List and Summary
-
-  Name   |    Features    | Issuess Raised |Issues Resolved|Total Test Cases|Test Case Pass
----------|----------------|----------------|---------------|-------------|--------------
-Sumit Dahiya  | Account Management & Calculator    | No     | No   | 7   | 7 |     
+   
    
 
 
