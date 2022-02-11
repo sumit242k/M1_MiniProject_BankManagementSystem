@@ -43,10 +43,10 @@ login_admin:
                 printf("\n\t\t\t\t\t\tBANK MANAGEMENT SYSTEM\n\n");
                 printf("\n\tLOGIN PAGE\n\n");
                 printf("Enter Your Username:\t");
-                scanf("%13s",&username);
+                scanf("%13s",&username[0]);
                 fflush(stdin);
                 printf("Enter Your Password:\t");
-                scanf("%10s",&password);
+                scanf("%10s",&password[0]);
                 fflush(stdin);
                 if(login_admin(username,password))
                 {

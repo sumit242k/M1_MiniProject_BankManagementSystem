@@ -46,7 +46,7 @@ void admin_account_update(void)
             if(option==1)
             {
                 printf("\nEnter Account Holder Name:\t");
-                scanf("%50s",&user_data.holder_name);
+                scanf("%50s",&user_data.holder_name[0]);
             }
             else if(option==2)
             {

@@ -23,7 +23,7 @@ void admin_account_create(void)
 
     printf("\n\tCreate new account\n\n");
     printf("Enter Account Holder Name:\t");
-    scanf("%50s",&user_data.holder_name);
+    scanf("%50s",&user_data.holder_name[0]);
     printf("Enter Account Number:\t\t");
     scanf("%d", &user_data.holder_account_number);
     printf("Enter Available Amount:\t\t");

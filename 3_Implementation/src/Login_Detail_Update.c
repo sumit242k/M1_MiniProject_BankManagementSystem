@@ -24,7 +24,7 @@ void login_datail_update()
     char username[15],password[12];
     
     printf("\n\nPlease Enter your new username:\t\t");
-    scanf("%13s", &username);
+    scanf("%13s", &username[0]);
     printf("Please Enter your new password:\t\t");
     scanf("%10s", &password);
 
